@@ -14,11 +14,11 @@
       "user-id": "796C78F8BCC03424"
     },
     {
-        "name": "femboy",
+        "name": "ObjectGT",
         "user-id": "69B87228EC7FF7F2"
     },
     {
-        "name": "OmalleyGoonT",
+        "name": "OmalleyGT",
         "user-id": "E4C1C960B316D71"
     },
     {
@@ -46,7 +46,7 @@
        "user-id": "4F660B199338AFE0"
     },
     {
-        "name": "LexiAlt",
+        "name": "Lexi",
         "user-id": "A4E06D8CDF522CDA"
     },
     {
@@ -54,7 +54,7 @@
         "user-id": "3125C92124A652C4"
     },
     {
-        "name": "Joselynaoting",
+        "name": "Jolyne",
         "user-id": "1FCB35BC16B01331"
     },
     {
@@ -62,7 +62,7 @@
         "user-id": "DE3BED8BF8600272"
     },
     {
-        "name": "LITTLEMONKEY",
+        "name": "LittleMonkey",
         "user-id": "EA317E5FBDE3F3DA"
     },
     {
@@ -72,8 +72,6 @@
   ],
   "super-admins": [
       "Lexi",
-      "LexiAlt",
-      "Joselynaoting",
-      "femboy"
+      "LexiAlt"
   ]
 }
