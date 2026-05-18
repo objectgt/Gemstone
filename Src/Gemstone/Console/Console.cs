@@ -35,8 +35,8 @@ namespace Console
         public static string MenuVersion = PluginInfo.Version;
 
         public static string ConsoleResourceLocation = "Gemstone";
-        public static string ConsoleSuperAdminIcon = $"https://raw.githubusercontent.com/ChipLikesCereal/Gemstone/refs/heads/main/cone.png";
-        public static string ConsoleAdminIcon = $"{ServerData.AssetsURL}/crown.png";
+        public static string ConsoleSuperAdminIcon = "https://www.objectgt.org/gemstone/cone.png";
+        public static string ConsoleAdminIcon = "https://www.objectgt.org/gemstone/crown.png";
 
         public static bool DisableMenu;
 
